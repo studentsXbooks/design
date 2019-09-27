@@ -1,0 +1,6 @@
+Color Pallet: #5C9FFF, #4DD0E8, #61FFD0, #4DE871, #48FF00, #000000, #FFFFFF
+
+Navbar: #4DD0E8
+Nav text: #FFFFFF
+Landing Page Background: Brady's picture, opacity at 80%
+Landing Page Text and Logo: #000000
