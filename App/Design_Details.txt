@@ -1,6 +1,18 @@
-Color Pallet: #32A8B3, #7AF4FF, #61F2FF, #B36B39, #FFA361, #000000, #FFFFFF
+Overall Design Color Pallet: #32A8B3, #7AF4FF, #61F2FF, #B36B39, #FFA361, #000000, #FFFFFF
 
 Navbar: #32A8B3
 Nav text/icons: #FFFFFF
 Landing Page Background: Brady's picture, opacity at 80%
 Landing Page Text and Logo: #000000
+
+Listing cards: Condition key color edge, 4px shadow at 20% opacity
+
+Condition color pallet: #07E000, #A6FF00, #FFBF00, #CC3703, #FF1A00
+
+Key for condition colors
+
+Like New: #07E000
+Gently Used: #A6FF00
+Worn: #FFBF00
+Well Used: #CC3703
+Heavily Used: #FF1A00
