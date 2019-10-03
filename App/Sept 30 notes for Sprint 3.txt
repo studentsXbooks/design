@@ -1,0 +1,16 @@
+Fix Notification Bar -complete
+	adjust the 'x' when closing on the notification
+	fix alignment with x with text of message and the Hello User
+
+Remove Orange and make white -complete
+
+Keep picture for landing page but adjust the picture/text to make more visible -complete
+
+
+Text on search/submit buttons grayish black text and not white -complete
+
+search on every page -complete
+	everything but sign up or login forms
+
+redo register page -complete
+

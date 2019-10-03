@@ -1,0 +1,10 @@
+Overlay of picture to have a black/gray square
+make opacity to 10%
+
+text for buttons more white/light gray
+
+check to be consistent
+
+include picture in listing
+
+better layout with labels/input box
