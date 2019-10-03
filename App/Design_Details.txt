@@ -5,14 +5,14 @@ Nav text/icons: #FFFFFF
 Landing Page Background: Brady's picture, opacity at 80%
 Landing Page Text and Logo: #000000
 
-Listing cards: Condition key color edge, 4px shadow at 20% opacity
+Listing cards: Condition key color edge width of 21px and height of card, 4px shadow at 20% opacity
 
 Condition color pallet: #07E000, #A6FF00, #FFBF00, #CC3703, #FF1A00
 
 Key for condition colors
 
-Like New: #07E000
-Gently Used: #A6FF00
-Worn: #FFBF00
-Well Used: #CC3703
-Heavily Used: #FF1A00
+New: #07E000
+Like New: #A6FF00
+Good: #FFBF00
+Acceptable: #CC3703
+Poor: #FF1A00
